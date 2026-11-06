@@ -1,2 +1,2 @@
 # Freelance-calculator
-it just how much you get paid if you are new to freelancing
+it just how much you get paid if you are new to freelancing But I need someone to publish my website so that I could help new Freelancers how much they can get paid and If you are reading this please only just fork it not copy the code because this will end badly with you and me if you copy my code. this website helps new freelancers on how much they get paid if they are saving money
